@@ -135,6 +135,13 @@ If you like this project then please give it a star and share with the person wh
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+I would like to thank the following individuals and resources for their contributions to this project:
+
+Microverse: Thank you for providing valuable feedback and suggestions throughout the development process.
+Microverse Dashboard: The documentation and tutorials provided by this resource were extremely helpful in understanding the concepts and techniques used in this project.
+GitHub: The GitHub Repo used in this project was instrumental in achieving Linters installation, and we are grateful for the hard work put in by the developers.
+Code Reviewer: The Code Reviewer provided support and encouragement throughout the development process, and we are grateful for their continued support.
+Without the help of these individuals and resources, this project would not have been possible. Thank you for your contributions and support!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
