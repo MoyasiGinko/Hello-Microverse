@@ -42,12 +42,15 @@
 
 ### Key Features <a name="key-features"></a>
 
+<h2>Responsive Design</h2>
+<p>This project uses a mobile-first approach to ensure that the layout and content are optimized for smaller screens, and scales up to larger screens as needed. Media queries are used to adjust the layout and font sizes at different breakpoints, and images are optimized for faster loading times.</p>
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -110,7 +113,7 @@ This project is deployed using GitHub Pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,3 +144,4 @@ If you like this project then please give it a star and share with the person wh
 This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
