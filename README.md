@@ -42,8 +42,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-<h2>Responsive Design</h2>
-<p>This project uses a mobile-first approach to ensure that the layout and content are optimized for smaller screens, and scales up to larger screens as needed. Media queries are used to adjust the layout and font sizes at different breakpoints, and images are optimized for faster loading times.</p>
+### Responsive Design
+This project uses a mobile-first approach to ensure that the layout and content are optimized for smaller screens, and scales up to larger screens as needed. Media queries are used to adjust the layout and font sizes at different breakpoints, and images are optimized for faster loading times.
 
 
 
